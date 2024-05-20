@@ -1,0 +1,2 @@
+g++ -o problema_2 problema_2.cpp
+./problema_2
